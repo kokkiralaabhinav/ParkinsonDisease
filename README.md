@@ -1,1 +1,2 @@
-# parkinson_disease_test
+# parkinson_disease_test based on MACHINE LEARNING
+The machine learning model can be implemented to significantly improve diagnosis method of Parkinson disease .In this study it indicates that the ensemble techniques Xgboost classification (Extreme gradient boosting) algorithm achieved the high test accuracy rate (95%) compared to other classification algorithm .The performance of the methods has been assessed with a reliable dataset from UCI Machine learning repository.
